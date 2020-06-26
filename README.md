@@ -1,11 +1,11 @@
-ACEDrawingView [![Build Status](https://travis-ci.org/acerbetti/ACEDrawingView.svg?branch=master)](https://travis-ci.org/acerbetti/ACEDrawingView) [![CocoaPods Compatible](https://img.shields.io/cocoapods/v/ACEDrawingView.svg)](http://cocoadocs.org/docsets/ACEDrawingView) [![Platform](https://img.shields.io/cocoapods/p/ACEDrawingView.svg?style=flat)](http://cocoadocs.org/docsets/ACEDrawingView)
+ACEDrawingView [![Build Status](https://travis-ci.org/acerbetti/ACEDrawingView.svg?branch=master)](https://travis-ci.org/acerbetti/ACEDrawingView) [![CocoaPods Compatible](https://img.shields.io/cocoapods/v/ACEDrawingView.svg)](http://cocoadocs.org/docsets/ACEDrawingView) [![Carthage compatible](https://img.shields.io/badge/Carthage-compatible-4BC51D.svg?style=flat)](https://github.com/Carthage/Carthage) [![Platform](https://img.shields.io/cocoapods/p/ACEDrawingView.svg?style=flat)](http://cocoadocs.org/docsets/ACEDrawingView)
 ==============
 
 ![](https://github.com/acerbetti/ACEDrawingView/blob/master/Example.png?raw=true)      ![](https://github.com/deviserRahul/ACEDrawingView/blob/master/Example2.png?raw=true)
 
 Purpose
 --------------
-ACEDrawingView is a sample project showing exactly how to create a nice and smooth drawing application. In a few lines of code it supports drawing with different colors and line width. 
+ACEDrawingView is a sample project showing exactly how to create a nice and smooth drawing application. In a few lines of code it supports drawing with different colors and line width.
 It also includes a full undo/redo stack and it can export the view as an UIImage.
 
 
